@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "near-api-js": "^1.0.0"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "dev": "echo \"servet starting \" && nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
